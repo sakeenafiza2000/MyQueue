@@ -75,5 +75,4 @@ int main()
     printf("%d ",dequeue());
 
     return 0;
-    return 0;
 }
